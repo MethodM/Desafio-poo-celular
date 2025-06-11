@@ -1,4 +1,4 @@
-package org.example;
+package iphone.desafio;
 
 public class IphoneTestDrive {
     public static void main(String[] args) {
