@@ -6,7 +6,7 @@ Este é um projeto que simula um iPhone, implementando funcionalidades de aparel
 
 Abaixo, você pode visualizar o diagrama de classes que representa a estrutura do projeto:
 
-![Diagrama UML do Projeto](doc/Diagrama Projeto-POO.png)
+![Diagrama UML do Projeto](doc/diagramaprojeto.png)
 
 ## Funcionalidades:
 
